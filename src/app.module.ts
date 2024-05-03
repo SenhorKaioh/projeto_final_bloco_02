@@ -23,7 +23,7 @@ import { ProdutoModule } from './produtos/Produto.module';
     CategoriaModule,
     ProdutoModule
   ],
-  controllers: [AppController],
-  providers: [AppService],
+  controllers: [],
+  providers: [],
 })
 export class AppModule {}
